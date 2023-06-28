@@ -1,7 +1,7 @@
 # Parágrafos Coloridos
 Projeto de um exercício proposto para criar parágrafos coloridos usando HTML e CSS.
 
-## Exercício proposto
+## Exercício Proposto
 
 Crie 2 parágrafos com:
 
@@ -19,6 +19,6 @@ Crie 2 parágrafos com:
 
 [<img src="./resultado.jpg" alt="parágrafos coloridos feitos com HTML e CSS">](https://priscila199.github.io/paragrafos-coloridos/)
 
-## Tecnologia Utilizada
+## Tecnologias Utilizadas
 - HTML
 - CSS
